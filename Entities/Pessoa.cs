@@ -1,6 +1,6 @@
 namespace LivrosPOO;
 
-public class Pessoa : IPessoa {
+public abstract class Pessoa : IPessoa {
     private string Nome {get; set;}
     private string Cpf {get; set;}
 
