@@ -1,0 +1,14 @@
+c:\Users\Wellison\Documents\C#\LivrosPOO\bin\Debug\net8.0\LivrosPOO.exe
+C:\Users\Wellison\Documents\C#\LivrosPOO\bin\Debug\net8.0\LivrosPOO.deps.json
+C:\Users\Wellison\Documents\C#\LivrosPOO\bin\Debug\net8.0\LivrosPOO.runtimeconfig.json
+c:\Users\Wellison\Documents\C#\LivrosPOO\bin\Debug\net8.0\LivrosPOO.dll
+c:\Users\Wellison\Documents\C#\LivrosPOO\bin\Debug\net8.0\LivrosPOO.pdb
+c:\Users\Wellison\Documents\C#\LivrosPOO\obj\Debug\net8.0\LivrosPOO.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Wellison\Documents\C#\LivrosPOO\obj\Debug\net8.0\LivrosPOO.AssemblyInfoInputs.cache
+c:\Users\Wellison\Documents\C#\LivrosPOO\obj\Debug\net8.0\LivrosPOO.AssemblyInfo.cs
+c:\Users\Wellison\Documents\C#\LivrosPOO\obj\Debug\net8.0\LivrosPOO.csproj.CoreCompileInputs.cache
+c:\Users\Wellison\Documents\C#\LivrosPOO\obj\Debug\net8.0\LivrosPOO.dll
+c:\Users\Wellison\Documents\C#\LivrosPOO\obj\Debug\net8.0\refint\LivrosPOO.dll
+c:\Users\Wellison\Documents\C#\LivrosPOO\obj\Debug\net8.0\LivrosPOO.pdb
+C:\Users\Wellison\Documents\C#\LivrosPOO\obj\Debug\net8.0\LivrosPOO.genruntimeconfig.cache
+C:\Users\Wellison\Documents\C#\LivrosPOO\obj\Debug\net8.0\ref\LivrosPOO.dll
