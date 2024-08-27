@@ -12,3 +12,4 @@ c:\Users\Wellison\Documents\C#\LivrosPOO\obj\Debug\net8.0\refint\LivrosPOO.dll
 c:\Users\Wellison\Documents\C#\LivrosPOO\obj\Debug\net8.0\LivrosPOO.pdb
 C:\Users\Wellison\Documents\C#\LivrosPOO\obj\Debug\net8.0\LivrosPOO.genruntimeconfig.cache
 C:\Users\Wellison\Documents\C#\LivrosPOO\obj\Debug\net8.0\ref\LivrosPOO.dll
+c:\Users\Wellison\Documents\C#\LivrosPOO\obj\Debug\net8.0\LivrosPOO.sourcelink.json
