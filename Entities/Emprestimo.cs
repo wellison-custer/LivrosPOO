@@ -1,4 +1,5 @@
 namespace LivrosPOO;
+
 public class Emprestimo {
 
     public Livro Livro { set; get; }
