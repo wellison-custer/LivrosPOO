@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LivrosPOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa63339e3c16f321921e4e2024568ed1650b3743")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed6831dfcf6b13732d5674e202143c3fbebeacff")]
 [assembly: System.Reflection.AssemblyProductAttribute("LivrosPOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LivrosPOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
